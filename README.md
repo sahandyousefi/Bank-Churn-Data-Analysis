@@ -1,6 +1,8 @@
 # Bank-Churn-Data-Analysis
 This is the SQL queries from simple to advance to find hidden secrets in the dataset!
 
+Data Source: https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
+
 # Bank Customer Churn Analysis Using SQL
 
 ## Overview
